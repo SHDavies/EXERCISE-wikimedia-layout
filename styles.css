@@ -25,11 +25,6 @@ a {
 	text-decoration: none;
 }
 
-#break {
-	height: 1px;
-	width: 100%;
-}
-
 .row {
 	height: 150px;
 	width: 100%;
@@ -37,12 +32,14 @@ a {
 	text-align: justify;
 	min-width: 650px;
 }
+
 .row image {
     vertical-align: top;
     display: inline-block;
     *display: inline;
     zoom: 1;
 }
+
 .stretch {
     width: 100%;
     display: inline-block;
